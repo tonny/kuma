@@ -1,0 +1,33 @@
+###############################################################################
+                        ___           ___           ___           ___     
+                       /__/|         /__/\         /__/\         /  /\    
+                      |  |:|         \  \:\       |  |::\       /  /::\   
+     h  h             |  |:|          \  \:\      |  |:|:\     /  /:/\:\  
+   h(")(")h         __|  |:|      ___  \  \:\   __|__|:|\:\   /  /:/~/::\ 
+  ("),--.(")       /__/\_|:|____ /__/\  \__\:\ /__/::::| \:\ /__/:/ /:/\:\
+   :"    ";        \  \:\/:::::/ \  \:\ /  /:/ \  \:\~~\__\/ \  \:\/:/__\/
+   `.____,'         \  \::/~~~~   \  \:\  /:/   \  \:\        \  \::/     
+                     \  \:\        \  \:\/:/     \  \:\        \  \:\     
+                      \  \:\        \  \::/       \  \:\        \  \:\    
+                       \__\/         \__\/         \__\/         \__\/    
+
+###############################################################################
+
+Kuma version 0.0
+
+Authors:
+    Antonio Mamani Q. (antonio.mq@gmail.com)
+    Carlos Caballero B. (cijkb.j@gmail.com)
+
+Dependencies:
+    PHP 5.0 or higher.
+    Apache Web Server (with mod_rewrite).
+    Zend Framework 1.8.3 or higher.
+    MySQL 5.0 or higher.
+
+License: GNU GPL 5.0.
+
+Description:
+    A free and open source e-learning platform for management of courses and
+    social network.
+
